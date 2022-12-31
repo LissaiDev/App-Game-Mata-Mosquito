@@ -1,0 +1,50 @@
+/*Configuracoes gerais*/
+html{
+	cursor: url('../img/mata_mosca.png') 30 30,auto;
+}
+body{
+	background-image: url(../img/bg.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+	/*Fontes*/
+	/*Links*/
+	/*Tipografia*/
+/*Configuracoes no cabecalho*/
+	/*Configuracoes na barra de navegacao*/
+	/*Configuracoes em botoes*/
+	/*Configuracoes na barra de pesquisa*/
+/*Configuracoes no corpo*/
+.mosquito{
+	width: 50px;
+	height: 50px;
+}
+.mosquito1{
+	width: 70px;
+	height: 70px;
+}
+.mosquito2{
+	width: 90px;
+	height: 90px;
+}
+.ladoA{
+	transform: scaleX(1);
+}
+.ladoA{
+	transform: scaleX(-1);
+}
+#painel{
+	width: 190px;
+	opacity: 0.7;
+	position: absolute;
+	bottom: 0px;
+	border-top: 1px solid white;
+	left: 0px;
+	padding: 10px;
+	background: white;
+}
+#vidas,#cronometro{
+	float: left;
+	font-weight: bold;
+}
+/*Configuracoes no rodape*/
