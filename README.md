@@ -28,8 +28,5 @@ O projeto do "Game Mata Mosquito" é estruturado usando as seguintes tecnologias
 - Pontuação atualizada ao acertar os mosquitos.
 - Mensagens de vitória ou derrota ao final do jogo.
 
-## Exemplos e Tutoriais
-No repositório do projeto, você encontrará exemplos de código comentado e um arquivo "README" com instruções adicionais para personalização e modificações.
-
 ## Contribuição
 Este projeto foi criado como um exercício pessoal de desenvolvimento, mas você pode contribuir para aprimorá-lo, caso deseje. Sinta-se à vontade para abrir problemas ou enviar solicitações de pull no repositório para sugerir melhorias.
